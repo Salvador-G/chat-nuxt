@@ -28,8 +28,8 @@
     </v-card>
 </template>
 <script>
-import PersonChat from '@/components/PersonChat.vue';
-import ChatLog from '@/components/ChatLog.vue';
+import PersonChat from '@/components/personChat.vue';
+import ChatLog from '@/components/chatLog.vue';
 
 export default {
     props: {
